@@ -45,7 +45,7 @@
 
         <!-- for <scm> tag -->
         <system.version.control>git</system.version.control>
-        <url.version.control>git@github.com:YuliyaKanonchyk/myChat.git</url.version.control>
+        <url.version.control>git@github.com:YuliyaKanonchyk/test_release_repo.git</url.version.control>
     </properties>
 
     <dependencyManagement>
