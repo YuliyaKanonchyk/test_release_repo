@@ -1,0 +1,2 @@
+Main-Class: com.dev.AppRunner
+Class-Path: database-0.0.1.RELEASE.jar
