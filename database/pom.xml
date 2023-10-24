@@ -3,12 +3,12 @@
     <parent>
         <artifactId>iooo-spring-mvc-quickstart-archetype</artifactId>
         <groupId>tech.iooo.maven.archetypes</groupId>
-        <version>0.0.1</version>
+        <version>0.0.2</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>database</artifactId>
-  <version>0.0.1.RELEASE</version>
+  <version>0.0.2</version>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
