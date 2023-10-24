@@ -3,7 +3,7 @@
     <parent>
         <artifactId>iooo-spring-mvc-quickstart-archetype</artifactId>
         <groupId>tech.iooo.maven.archetypes</groupId>
-        <version>0.0.2</version>
+        <version>0.0.2-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
@@ -18,7 +18,7 @@
         <dependency>
             <groupId>tech.iooo.maven.archetypes</groupId>
             <artifactId>database</artifactId>
-            <version>0.0.1.RELEASE</version>
+            <version>0.0.2</version>
         </dependency>
     </dependencies>
     <build>
